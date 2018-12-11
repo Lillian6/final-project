@@ -26,8 +26,8 @@ I watched youtube video a lot, since it's much easier for me to look through how
 ![screen shot 2018-12-11 at 4 15 40 pm](https://user-images.githubusercontent.com/32445505/49831029-d78f9880-fd60-11e8-8dd8-30b0e50cbab4.png)
 
 ## Future development:
-_Add more interactions on the bubble or the website in general, such as buttons, lines, forces, etc.
-_Add more data visualization elements such as quadrant
-_Try to pull data from API so to make it always keep updated along the time
+* Add more interactions on the bubble or the website in general, such as buttons, lines, forces, etc.
+* Add more data visualization elements such as quadrant
+* Try to pull data from API so to make it always keep updated along the time
 
 
