@@ -11,7 +11,9 @@ I got some inspirations from online resources such as open-source governmental d
 #### https://www.tutorialspoint.com/d3js/
 #### https://bost.ocks.org/mike/nations/
 #### https://data.cityofnewyork.us/Recreation/NYC-Social-Media-Usage/5b3a-rs48
-  
+#### https://charts.animateddata.co.uk/whatmakesushappy/
+![screen shot 2018-12-11 at 4 02 19 pm](https://user-images.githubusercontent.com/32445505/49831082-ff7efc00-fd60-11e8-8676-6dedc08d6ae0.png)
+
 ## Technical Execution:
 I tried lots of different solutions in this project and many trade-offs were going on here as well.
 First of all, since the bar chart is the easiest way to make a data visualization, I tried to make some very basic and simple bars using D3 framework so that I can get more and more familiar with the new knowledge.
