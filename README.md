@@ -1,6 +1,6 @@
 # final-project
 
-## overall objective of this project in three sentences, specify the following: 
+## overall objective of this project: 
 I'm always interested in data visualization and want to put some effort on it; for me, data visualization is not only about pretty graphs to see, but also it's necessary to provide interesting interactions for users. This interactive media final project aims to provide an intuitive and dynamic bubble chart to give meaningful information about New Yorker social media usage across different platforms. The bigger the bubble is, the more users the platform has. Users are allowed to hover on the bubbles and when the mouse is on one bubble, then the bubble will get twice big. The intended audience can be everyone and anyone, and I think the idea can be applied to a variety of areas and industries.
 
 ## Design Inspiration:
