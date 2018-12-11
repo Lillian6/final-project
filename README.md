@@ -5,13 +5,13 @@ I'm always interested in data visualization and want to put some effort on it; f
 
 ## Design Inspiration:
 I got some inspirations from online resources such as open-source governmental data, Youtube tutorial and D3 (Data-Driven Documents) framework. The links include the following:
-#### https://beta.observablehq.com/@mbostock/d3-bubble-chart 
-#### https://www.youtube.com/watch?v=n5NcCoa9dDU
-#### https://www.youtube.com/watch?v=TR39nfAW1dw
-#### https://www.tutorialspoint.com/d3js/
-#### https://bost.ocks.org/mike/nations/
-#### https://data.cityofnewyork.us/Recreation/NYC-Social-Media-Usage/5b3a-rs48
-#### https://charts.animateddata.co.uk/whatmakesushappy/
+_https://beta.observablehq.com/@mbostock/d3-bubble-chart
+_https://www.youtube.com/watch?v=n5NcCoa9dDU
+_https://www.youtube.com/watch?v=TR39nfAW1dw
+_https://www.tutorialspoint.com/d3js/
+_https://bost.ocks.org/mike/nations/
+_https://data.cityofnewyork.us/Recreation/NYC-Social-Media-Usage/5b3a-rs48
+_https://charts.animateddata.co.uk/whatmakesushappy/
 ![screen shot 2018-12-11 at 4 02 19 pm](https://user-images.githubusercontent.com/32445505/49831082-ff7efc00-fd60-11e8-8676-6dedc08d6ae0.png)
 ![screen shot 2018-12-11 at 4 24 06 pm](https://user-images.githubusercontent.com/32445505/49831199-4d93ff80-fd61-11e8-8c23-64dcab642327.png)
 ![screen shot 2018-12-11 at 4 24 19 pm](https://user-images.githubusercontent.com/32445505/49831202-4f5dc300-fd61-11e8-9580-822233be1c7b.png)
@@ -26,5 +26,8 @@ I watched youtube video a lot, since it's much easier for me to look through how
 ![screen shot 2018-12-11 at 4 15 40 pm](https://user-images.githubusercontent.com/32445505/49831029-d78f9880-fd60-11e8-8dd8-30b0e50cbab4.png)
 
 ## Future development:
-Include screencaps of what you have done so far in this section, and list out a few more steps for future development if you have more time beyond the deadline. 
-Please provide link to your github repository at the end of your Technical Execution section. 
+_Add more interactions on the bubble or the website in general, such as buttons, lines, forces, etc.
+_Add more data visualization elements such as quadrant
+_Try to pull data from API so to make it always keep updated along the time
+
+
