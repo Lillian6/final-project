@@ -1,9 +1,9 @@
 # final-project
 
-## overall objective of this project: 
+## Overall objective of this project: 
 I'm always interested in data visualization and want to put some effort on it; for me, data visualization is not only about pretty graphs to see, but also it's necessary to provide interesting interactions for users. This interactive media final project aims to provide an intuitive and dynamic bubble chart to give meaningful information about New Yorker social media usage across different platforms. The bigger the bubble is, the more users the platform has. Users are allowed to hover on the bubbles and when the mouse is on one bubble, then the bubble will get twice big. The intended audience can be everyone and anyone, and I think the idea can be applied to a variety of areas and industries.
 
-## Design Inspiration:
+## Design inspiration:
 I got some inspirations from online resources such as open-source governmental data, Youtube tutorial and D3 (Data-Driven Documents) framework. The links include the following:
 ##### https://beta.observablehq.com/@mbostock/d3-bubble-chart
 ##### https://www.youtube.com/watch?v=n5NcCoa9dDU_
@@ -15,7 +15,7 @@ I got some inspirations from online resources such as open-source governmental d
 ![screen shot 2018-12-11 at 4 02 19 pm](https://user-images.githubusercontent.com/32445505/49831082-ff7efc00-fd60-11e8-8676-6dedc08d6ae0.png)
 ![screen shot 2018-12-11 at 4 24 06 pm](https://user-images.githubusercontent.com/32445505/49831199-4d93ff80-fd61-11e8-8c23-64dcab642327.png)
 ![screen shot 2018-12-11 at 4 24 19 pm](https://user-images.githubusercontent.com/32445505/49831202-4f5dc300-fd61-11e8-9580-822233be1c7b.png)
-## Technical Execution:
+## Technical execution:
 I tried lots of different solutions in this project and many trade-offs were going on here as well.
 First of all, since the bar chart is the easiest way to make a data visualization, I tried to make some very basic and simple bars using D3 framework so that I can get more and more familiar with the new knowledge.
 Then I started to think about what kind of chart I want to make, which can express the data clearly, and can also have some interactions. Based on the balance of idea and the work-load level, I decided to choose bubble chart. It turns out a great outcome! Even though I've already finished the chart for this final project, but there're still a lot to do in the future. I can add more interactive actions into the website, such as buttons, showing hiding content, synthesizing them into a quatrant, etc. 
