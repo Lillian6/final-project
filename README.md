@@ -5,13 +5,13 @@ I'm always interested in data visualization and want to put some effort on it; f
 
 ## Design Inspiration:
 I got some inspirations from online resources such as open-source governmental data, Youtube tutorial and D3 (Data-Driven Documents) framework. The links include the following:
-_https://beta.observablehq.com/@mbostock/d3-bubble-chart
-_https://www.youtube.com/watch?v=n5NcCoa9dDU
-_https://www.youtube.com/watch?v=TR39nfAW1dw
-_https://www.tutorialspoint.com/d3js/
-_https://bost.ocks.org/mike/nations/
-_https://data.cityofnewyork.us/Recreation/NYC-Social-Media-Usage/5b3a-rs48
-_https://charts.animateddata.co.uk/whatmakesushappy/
+##### https://beta.observablehq.com/@mbostock/d3-bubble-chart
+##### https://www.youtube.com/watch?v=n5NcCoa9dDU_
+##### https://www.youtube.com/watch?v=TR39nfAW1dw_
+##### https://www.tutorialspoint.com/d3js/_
+##### https://bost.ocks.org/mike/nations/_
+##### https://data.cityofnewyork.us/Recreation/NYC-Social-Media-Usage/5b3a-rs48_
+##### https://charts.animateddata.co.uk/whatmakesushappy/_
 ![screen shot 2018-12-11 at 4 02 19 pm](https://user-images.githubusercontent.com/32445505/49831082-ff7efc00-fd60-11e8-8676-6dedc08d6ae0.png)
 ![screen shot 2018-12-11 at 4 24 06 pm](https://user-images.githubusercontent.com/32445505/49831199-4d93ff80-fd61-11e8-8c23-64dcab642327.png)
 ![screen shot 2018-12-11 at 4 24 19 pm](https://user-images.githubusercontent.com/32445505/49831202-4f5dc300-fd61-11e8-9580-822233be1c7b.png)
