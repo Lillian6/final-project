@@ -20,7 +20,7 @@ Then I started to think about what kind of chart I want to make, which can expre
 I watched youtube video a lot, since it's much easier for me to look through how the code is writen than looking at the whole bunch of code at the same time. I have my own pace when I teach myself. I think time management is a big issue here as well. I have to deal with many questions like what's the ultimate output? how can I divide my time into separate parts to finish things sequentially? What if I can't achieve this function, is there any back-up?
 
 ## This is the project I finished so far:
-
+![screen shot 2018-12-11 at 4 15 40 pm](https://user-images.githubusercontent.com/32445505/49831029-d78f9880-fd60-11e8-8dd8-30b0e50cbab4.png)
 
 ## Future development:
 Include screencaps of what you have done so far in this section, and list out a few more steps for future development if you have more time beyond the deadline. 
