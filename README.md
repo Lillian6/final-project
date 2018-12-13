@@ -25,6 +25,11 @@ I watched youtube video a lot, since it's much easier for me to look through how
 ## This is the project I finished so far:
 ![screen shot 2018-12-11 at 4 15 40 pm](https://user-images.githubusercontent.com/32445505/49831029-d78f9880-fd60-11e8-8dd8-30b0e50cbab4.png)
 
+## Self reflection
+The webpage presents the data in a more intuitive way than numbers in a table. The bigger the bubble is, the more users are on the platform; when the mouse is hovering on the bubble, the bubble will get twice bigger and the exact number will show up as a title. To be honest, I don't have a specific idea about how I'm going to visualize data and the process is a combination that idea and execution go on at the same time (since I have to balance what I'm able to do and what I'm not yet). When I search online, there're so many cool stuff and projects going on, such as map, and I also thought about making a map. So, I would say it's a "brainstorm & balance" process. 
+
+Doing this project deepend some thoughts in my mind about data visualization. There's no right answer for data visualization, but there are some appropriate ways to present certain information. Based on the characteristcis of the information itself, choosing a way to visualize the data would be more natural. 
+
 ## Future development:
 * Add more interactions on the bubble or the website in general, such as buttons, lines, forces, etc.
 * Add more data visualization elements such as quadrant
